@@ -7,5 +7,6 @@ trafilatura
 langchain-huggingface
 qdrant-client
 langchain-qdrant
+<<<<<<< HEAD
 numpy==1.26.4
 #adding a new line from local.

@@ -1228,3 +1228,8 @@ class AzureAISearch(dspy.Retrieve):
                 logging.error(f"Error occurs when searching query {query}: {e}")
 
         return collected_results
+
+
+
+
+#this is a comment.
